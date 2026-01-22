@@ -19225,8 +19225,7 @@
     "android": true,
     "web": true,
     "macos": true,
-    "tvos": true,
     "expoGo": true,
-    "horizon": true
+    "fireos": true
   }
 ]
