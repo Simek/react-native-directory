@@ -19218,5 +19218,13 @@
     ],
     "newArchitecture": true,
     "ios": true
+  },
+  {
+    "githubUrl": "https://github.com/simek/eslint-plugin-alex",
+    "configPlugin": true,
+    "android": true,
+    "web": true,
+    "tvos": true,
+    "expoGo": true
   }
 ]
